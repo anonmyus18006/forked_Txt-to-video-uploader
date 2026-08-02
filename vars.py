@@ -9,7 +9,7 @@ BOT_TOKEN = environ.get("BOT_TOKEN")
 SAHIL = "SAHIL"
 
 OWNER = int(environ.get("OWNER", "8076165805"))
-CREDIT = environ.get("CREDIT", "𝙎𝘼HIL 𝘽𝙊𝙏𝙎")
+CREDIT = environ.get("CREDIT", "SAHIL")
 cookies_file_path = os.getenv("cookies_file_path", "youtube_cookies.txt")
 
 TOTAL_USER = os.environ.get('TOTAL_USERS', '8076165805').split(',')
