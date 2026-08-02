@@ -3,6 +3,7 @@ import time #SAHIL BOTS
 import math #SAHIL BOTS
 import os #SAHIL BOTS
 from vars import CREDIT #SAHIL BOTS
+from vars import SAHIL
 from pyrogram.errors import FloodWait #SAHIL BOTS
 from datetime import datetime,timedelta #SAHIL BOTS
 
