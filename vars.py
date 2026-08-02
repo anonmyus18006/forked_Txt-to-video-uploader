@@ -6,6 +6,7 @@ from os import environ
 API_ID = int(environ.get("API_ID"))
 API_HASH = environ.get("API_HASH")
 BOT_TOKEN = environ.get("BOT_TOKEN")
+SAHIL = "SAHIL"
 
 OWNER = int(environ.get("OWNER", "8076165805"))
 CREDIT = environ.get("CREDIT", "𝙎𝘼HIL 𝘽𝙊𝙏𝙎")
