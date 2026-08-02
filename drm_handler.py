@@ -16,6 +16,7 @@ from pyrogram.errors import FloodWait, PeerIdInvalid, UserIsBlocked, InputUserDe
 from pyrogram.errors.exceptions.bad_request_400 import StickerEmojiInvalid
 from pyrogram.types.messages_and_media import message
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message, InputMediaPhoto
+from vars import SAHIL
 
 import saini as helper
 import globals
